@@ -14,17 +14,13 @@ const App = () => {
           <div className='home'>
             <div className='home-content'>
               <h2>Fatima needs your help!</h2>
-              <p>Fatima’s Family Escaped the Taliban.</p>
-              <p>Help them get out of Pakistan safely and establish a new life in Canada.</p>
-
-              <p>We want to raise $55,000 to help Fatima’s family begin a new life in Canada.</p>
 
               <p>Fatima’s four family members (mom, dad, grandma and baby sister) escaped Taliban persecution and made their way to Pakistan where they are living precariously as temporary residents, in danger of deportation.</p>
 
-              <p>Gloria Dei Lutheran Church and Vancouver First Church of the Nazarene have begun a campaign to quickly raise funds to bring the family to British Columbia. After arrival, the whole family needs housing and basic necessities for their first year settling into their new home.</p>
+              <p>Gloria Dei Lutheran Church and Vancouver First Church of the Nazarene have partnered together to cosponsor Fatima’s family and raise the funds necessary to bring the family to British Columbia (the funds include housing costs and basic necessities for their first year in Canada). The total cost required is $55,000. Approximately $44,000 has been raised with $11,000 more needed to bring the family to Canada.</p>
             </div>
             <div className='home-img'>
-              <img src="1.jpeg" alt="" className='img' />
+              <img src="3.jpeg" alt="" className='img' />
             </div>
           </div>
           </>
@@ -40,7 +36,7 @@ const App = () => {
             </div>
             <div className='story-item'>
                <p className='story-paragraph'>The Qadiri family are Hazara, a people group that have long been persecuted in Afghanistan because they are Shia Muslim unlike the majority of Afghanis who are Sunni. Hazara people are easy to distinguish from other ethnicities within Afghanistan because of their distinctive physical features (smaller and more slanted eyes and smaller and flatter noses). These visible differences have made persecution easier for those wishing harm on the Hazara, including the Taliban, who murdered hundreds of thousands of Hazara when they took power in the early 2000s. While U.S. and other foreign troops were in Afghanistan the Hazara enjoyed some protection from persecution, though still subject to targeted bombings. </p>
-              <p className='story-paragraph'>With the Taliban out of power, women in Afghanistan were protected under law and afforded rights in Afghan society. Hazara women, including Fatima’s mother, Nima, worked hard to achieve their goals and dreams, even though discrimination continued against them. Afghan women had the right to vote and work. Nima worked in the media in several capacities and was a member of Afghan Women Journalists, while Khalilullah worked for the Dutch embassy.</p>
+              <p className='story-paragraph'>With the Taliban out of power, women in Afghanistan were protected under law and afforded rights in Afghan society. Hazara women, including Fatima’s mother, Nima, worked hard to achieve their goals and dreams, even though discrimination continued against them. Afghan women had the right to vote and work. Nima worked in the media in several capacities and was a member of Afghan Women Journalists, while  her father, Khalilullah worked for the Dutch embassy.</p>
             </div>
             <div className='story-item'>
               <h3>Life Under the Taliban</h3>
@@ -69,7 +65,7 @@ const App = () => {
           <>
             <h2>How To Donate</h2>
             <div className='flex-wrapper'>
-              <li>1. Go to the donation page on the Gloria Dei Lutheran Church Canada Helps page.</li>
+              <li>1. Go to the donation page on the <a href="https://www.canadahelps.org/en/dn/42524?v2=true" target="_blank">Gloria Dei Lutheran Church Canada Helps page.</a></li>
               <li>2. In the drop-down “Fund:” box, choose: "2. Refugee Support (Fatima Q.’s Family Fund)”</li>
               <a href="https://www.canadahelps.org/en/dn/42524?v1=true" target="_blank"><button className='donate'>Donate Now</button></a>
             </div>
