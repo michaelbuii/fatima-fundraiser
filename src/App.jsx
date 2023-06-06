@@ -17,7 +17,7 @@ const App = () => {
 
               <p>Fatima’s four family members (mom, dad, grandma and baby sister) escaped Taliban persecution and made their way to Pakistan where they are living precariously as temporary residents, in danger of deportation.</p>
 
-              <p>Gloria Dei Lutheran Church and Vancouver First Church of the Nazarene have partnered together to cosponsor Fatima’s family and raise the funds necessary to bring the family to British Columbia (the funds include housing costs and basic necessities for their first year in Canada). The total cost required is $55,000. Approximately $44,000 has been raised with $11,000 more needed to bring the family to Canada.</p>
+              <p>Gloria Dei Lutheran Church and Vancouver First Church of the Nazarene have partnered together to cosponsor Fatima’s family and raise the funds necessary to bring the family to British Columbia (the funds include housing costs and basic necessities for their first year in Canada). The total cost required is $55,000. Approximately $44,000 has been raised with $5000 more needed to bring the family to Canada.</p>
             </div>
             <div className='home-img'>
               <img src="3.jpeg" alt="" className='img' />
